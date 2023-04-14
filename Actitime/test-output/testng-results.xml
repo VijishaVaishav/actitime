@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Open browser]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[here isVHDFC002]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser]]>
+    </line>
+    <line>
+      <![CDATA[Open browser]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[here isBankProject2]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser]]>
+    </line>
+    <line>
+      <![CDATA[Open browser]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88523" started-at="2023-04-14T21:56:29 GST" finished-at="2023-04-14T21:57:57 GST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88523" started-at="2023-04-14T21:56:29 GST" finished-at="2023-04-14T21:57:57 GST">
+      <class name="com.actitime.testscript.CreateCustomer">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.actitime.testscript.CreateCustomer@a38d7a3]" name="openBrowser" is-config="true" duration-ms="4880" started-at="2023-04-14T21:56:29 GST" finished-at="2023-04-14T21:56:33 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[Open browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.testscript.CreateCustomer@a38d7a3]" name="login" is-config="true" duration-ms="12979" started-at="2023-04-14T21:56:33 GST" finished-at="2023-04-14T21:56:46 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testCreateCustomer()[pri:0, instance:com.actitime.testscript.CreateCustomer@a38d7a3]" name="testCreateCustomer" duration-ms="12659" started-at="2023-04-14T21:56:46 GST" finished-at="2023-04-14T21:56:59 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[here isVHDFC002]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCreateCustomer -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscript.CreateCustomer@a38d7a3]" name="logout" is-config="true" duration-ms="2025" started-at="2023-04-14T21:56:59 GST" finished-at="2023-04-14T21:57:01 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.actitime.testscript.CreateCustomer@a38d7a3]" name="closeBrowser" is-config="true" duration-ms="320" started-at="2023-04-14T21:57:01 GST" finished-at="2023-04-14T21:57:01 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.actitime.testscript.CreateCustomer -->
+      <class name="com.actitime.testscript.CreateTask">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.actitime.testscript.CreateTask@87f383f]" name="openBrowser" is-config="true" duration-ms="2329" started-at="2023-04-14T21:57:29 GST" finished-at="2023-04-14T21:57:32 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[Open browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.testscript.CreateTask@87f383f]" name="login" is-config="true" duration-ms="6952" started-at="2023-04-14T21:57:32 GST" finished-at="2023-04-14T21:57:39 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testCreateTask()[pri:0, instance:com.actitime.testscript.CreateTask@87f383f]" name="testCreateTask" duration-ms="16295" started-at="2023-04-14T21:57:39 GST" finished-at="2023-04-14T21:57:55 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateTask -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscript.CreateTask@87f383f]" name="logout" is-config="true" duration-ms="1786" started-at="2023-04-14T21:57:55 GST" finished-at="2023-04-14T21:57:57 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.actitime.testscript.CreateTask@87f383f]" name="closeBrowser" is-config="true" duration-ms="270" started-at="2023-04-14T21:57:57 GST" finished-at="2023-04-14T21:57:57 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.actitime.testscript.CreateTask -->
+      <class name="com.actitime.testscript.CreateProject">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.actitime.testscript.CreateProject@6121c9d6]" name="openBrowser" is-config="true" duration-ms="2260" started-at="2023-04-14T21:57:01 GST" finished-at="2023-04-14T21:57:04 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[Open browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.testscript.CreateProject@6121c9d6]" name="login" is-config="true" duration-ms="7181" started-at="2023-04-14T21:57:04 GST" finished-at="2023-04-14T21:57:11 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testCreateProject()[pri:0, instance:com.actitime.testscript.CreateProject@6121c9d6]" name="testCreateProject" duration-ms="16188" started-at="2023-04-14T21:57:11 GST" finished-at="2023-04-14T21:57:27 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[here isBankProject2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCreateProject -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscript.CreateProject@6121c9d6]" name="logout" is-config="true" duration-ms="2046" started-at="2023-04-14T21:57:27 GST" finished-at="2023-04-14T21:57:29 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.actitime.testscript.CreateProject@6121c9d6]" name="closeBrowser" is-config="true" duration-ms="264" started-at="2023-04-14T21:57:29 GST" finished-at="2023-04-14T21:57:29 GST">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.actitime.testscript.CreateProject -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
